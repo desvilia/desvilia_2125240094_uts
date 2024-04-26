@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "748242399678",
+    "firebase_url": "https://uts-desvilia-default-rtdb.firebaseio.com",
+    "project_id": "uts-desvilia",
+    "storage_bucket": "uts-desvilia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748242399678:android:2eb51d13daa00bef9fc9ef",
+        "android_client_info": {
+          "package_name": "com.example.desvilia_2125240094_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4VkIsMV0-udsa7gZkoiiB4mZpOUS8Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
